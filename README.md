@@ -1,5 +1,10 @@
 # myNewsWrap – SAP and Microsoft
 
+## tl;dr
+If you do not want to read you can also watch:
+
+[![Watch the video](./pics/logo_small.jpg)](https://youtu.be/RpJmr4tAsLs)
+
 ## What to expect?
 This is the repository for my personal video podcast about news from the area of development with SAP and Microsoft, especially the combination of both. You find all the links to the sources I refer to in my video podcast available in my [YouTube channel](https://www.youtube.com/user/drchristianlechner/) in this repository. 
 
