@@ -24,7 +24,7 @@ I aim to publish episodes regularly aiming at every week, but let us see how thi
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed. 
 
 ## Next Date
-The next podcast will be streamed on Friday, 4th of September at 02:00 pm on [YouTube](https://youtu.be/oa2n_UgAXH4) 
+The next podcast will be streamed on Friday, 11th of September at 02:00 pm on [YouTube](https://youtu.be/YqmkUm3cjP8) 
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
