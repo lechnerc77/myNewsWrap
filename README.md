@@ -24,7 +24,15 @@ I aim to publish episodes regularly aiming at every week, but let us see how thi
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed. 
 
 ## Next Date
-The next podcast will be streamed on Friday, 18th of September at 02:00 pm on [YouTube](https://youtu.be/4WiRvvXh230) 
+The next podcast will be streamed on Friday, 25th of September at 02:00 pm on [YouTube](https://youtu.be/m0dhVWn2uCY) 
+
+## Overview of Episodes
+
+| Episode        | Date       | YouTube  | AnchorFM |
+|----------------|------------|----------|----------|
+| [Episode 01](https://github.com/lechnerc77/myNewsWrap/tree/episode01) | 04.09.2020 | [Link](https://youtu.be/oa2n_UgAXH4) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-01-ej4gg6) |
+| [Episode 02](https://github.com/lechnerc77/myNewsWrap/tree/episode02) | 04.09.2020 | [Link](https://youtu.be/YqmkUm3cjP8) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-02-ejffd8) |
+| [Episode 03](https://github.com/lechnerc77/myNewsWrap/tree/episode03) | 04.09.2020 | [Link](https://youtu.be/4WiRvvXh230) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-03-ejqsh7) |
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
