@@ -24,7 +24,7 @@ I aim to publish episodes regularly aiming at every week, but let us see how thi
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed. 
 
 ## Next Date
-The next podcast will be streamed on Friday, 09th of October at 02:00 pm on [YouTube](https://youtu.be/pfUNffTMvOk) 
+The next podcast will be streamed on Friday, 09th of October at 02:00 pm on [YouTube](https://youtu.be/GaHMhtsKemU) 
 
 ## Overview of Episodes
 
@@ -35,6 +35,7 @@ The next podcast will be streamed on Friday, 09th of October at 02:00 pm on [You
 | [Episode 03](https://github.com/lechnerc77/myNewsWrap/tree/episode03) | 18.09.2020 | [Link](https://youtu.be/4WiRvvXh230) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-03-ejqsh7) |
 | [Episode 04](https://github.com/lechnerc77/myNewsWrap/tree/episode04) | 25.09.2020 | [Link](https://youtu.be/m0dhVWn2uCY) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-04---MS-Ignite-Special-Edition-ek5gqq) |
 | [Episode 05](https://github.com/lechnerc77/myNewsWrap/tree/episode05) | 02.10.2020 | [Link](https://youtu.be/fCrkLiJjvR4) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-05-ekge90) |
+| [Episode 06](https://github.com/lechnerc77/myNewsWrap/tree/episode06) | 09.10.2020 | [Link](https://youtu.be/pfUNffTMvOk) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-06-ekqk06) |
 
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
