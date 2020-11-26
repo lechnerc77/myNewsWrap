@@ -24,7 +24,7 @@ I aim to publish episodes regularly aiming at every week, but let us see how thi
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed. 
 
 ## Next Date
-The next podcast will be streamed on Friday, 27th of November at 02:00 pm on [YouTube](https://youtu.be/tgUO1m5n5xY) 
+The next podcast will be available on Friday, 4th of December on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber) 
 
 ## Overview of Episodes
 
@@ -41,7 +41,7 @@ The next podcast will be streamed on Friday, 27th of November at 02:00 pm on [Yo
 | [Episode 09](https://github.com/lechnerc77/myNewsWrap/tree/episode09) | 30.10.2020 | [Link](https://youtu.be/Vm4Rk_a6Nks) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-09-elpr72) |
 | [Episode 10](https://github.com/lechnerc77/myNewsWrap/tree/episode10) | 06.11.2020 | [Link](https://youtu.be/f3LX9Pt5If8) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-10-em3vir) |
 | [Episode 11](https://github.com/lechnerc77/myNewsWrap/tree/episode11) | 13.11.2020 | [Link](https://youtu.be/-XVW_fNE-7M) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-11-eme8j8) |
-| [Episode 12](https://github.com/lechnerc77/myNewsWrap/tree/episode12) | 20.11.2020 | [Link](https://youtu.be/CCWxx5GwHv0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-12-emogqg)
-
+| [Episode 12](https://github.com/lechnerc77/myNewsWrap/tree/episode12) | 20.11.2020 | [Link](https://youtu.be/CCWxx5GwHv0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-12-emogqg)  |
+| [Episode 12](https://github.com/lechnerc77/myNewsWrap/tree/episode13) | 27.11.2020 | [Link](https://youtu.be/GkO7DORiT7s) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-13-en0lkf)  |
 ## Disclaimer
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
