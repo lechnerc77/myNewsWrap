@@ -1,30 +1,36 @@
 # myNewsWrap – SAP and Microsoft
 
 ## tl;dr
+
 If you do not want to read you can also watch:
 
 [![Watch the video](./pics/Logo_small.jpg)](https://youtu.be/RpJmr4tAsLs)
 
 ## What to expect?
-This is the repository for my personal video podcast about news from the area of development with SAP and Microsoft, especially the combination of both. You find all the links to the sources I refer to in my video podcast available in my [YouTube channel](https://www.youtube.com/user/drchristianlechner/) in this repository. 
 
-Each episode will be covered in a new branch. 
+This is the repository for my personal video podcast about news from the area of development with SAP and Microsoft, especially the combination of both. You find all the links to the sources I refer to in my video podcast available in my [YouTube channel](https://www.youtube.com/user/drchristianlechner/) in this repository.
+
+Each episode will be covered in a new branch.
 
 The information is opinionated e. g. I love serverless, so expect something about Azure Functions and will clearly focus on development, extension and integration topics. In addition I am not the IaaS expert, so if you are specifically interested in this topic I would recommend the [SAP on Azure](https://www.youtube.com/channel/UCQOn5Ia5ML0qFRNY1XJbd5g) channel.
 
 ## Why?
+
 I must anyway curate the news around SAP and Microsoft to keep up in my daily work. So instead of putting it together just for me, why not share this information. 
 
 And let us be honest, in addition, this puts some pressure on me to do it in an organized way and regular manner :-)  
 
 ## When?
+
 I aim to publish episodes regularly aiming at every week, but let us see how things evolve.
 
 ## How to give feedback and contribute?
-I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed. 
+
+I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed.
 
 ## Next Date
-The next podcast will be available on Friday, 11th of December on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber) 
+
+The next podcast will be available on Friday, 18th of December on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
 
 ## Overview of Episodes
 
@@ -44,5 +50,8 @@ The next podcast will be available on Friday, 11th of December on my [YouTubeCha
 | [Episode 12](https://github.com/lechnerc77/myNewsWrap/tree/episode12) | 20.11.2020 | [Link](https://youtu.be/CCWxx5GwHv0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-12-emogqg)  |
 | [Episode 13](https://github.com/lechnerc77/myNewsWrap/tree/episode13) | 27.11.2020 | [Link](https://youtu.be/GkO7DORiT7s) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-13-en0lkf)  |
 | [Episode 14](https://github.com/lechnerc77/myNewsWrap/tree/episode14) | 04.12.2020 | [Link](https://youtu.be/mo_MZBbl1Pk) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-14-enbiu5)  |
+| [Episode 15](https://github.com/lechnerc77/myNewsWrap/tree/episode15) | 11.12.2020 | [Link](https://youtu.be/jmif8ezI3TA) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-SAP-TechEd-Special-Edition-Episode-15-enlkqd)  |
+
 ## Disclaimer
-The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG. 
+
+The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
