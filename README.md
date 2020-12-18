@@ -30,7 +30,7 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 
 ## Next Date
 
-The next podcast will be available on Friday, 18th of December on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
+The next podcast will be available on Friday, 15th of January on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
 
 ## Overview of Episodes
 
@@ -51,6 +51,7 @@ The next podcast will be available on Friday, 18th of December on my [YouTubeCha
 | [Episode 13](https://github.com/lechnerc77/myNewsWrap/tree/episode13) | 27.11.2020 | [Link](https://youtu.be/GkO7DORiT7s) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-13-en0lkf)  |
 | [Episode 14](https://github.com/lechnerc77/myNewsWrap/tree/episode14) | 04.12.2020 | [Link](https://youtu.be/mo_MZBbl1Pk) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-14-enbiu5)  |
 | [Episode 15 - SAP TechEd Special Edition](https://github.com/lechnerc77/myNewsWrap/tree/episode15) | 11.12.2020 | [Link](https://youtu.be/jmif8ezI3TA) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-SAP-TechEd-Special-Edition-Episode-15-enlkqd)  |
+| [Episode 16](https://github.com/lechnerc77/myNewsWrap/tree/episode16) | 18.12.2020 | [Link](https://youtu.be/uN-sPkkxMo8) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-16-envb3c)  |
 
 ## Disclaimer
 
