@@ -54,6 +54,7 @@ The next podcast will be available on Friday, 15th of January on my [YouTubeChan
 | [Episode 16](https://github.com/lechnerc77/myNewsWrap/tree/episode16) | 18.12.2020 | [Link](https://youtu.be/uN-sPkkxMo8) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-16-envb3c)  |
 | [Episode 17](https://github.com/lechnerc77/myNewsWrap/tree/episode17) | 15.01.2021 | [Link](https://youtu.be/DHA8L_z6MTE) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-17-ep0dff)  |
 | [Episode 18](https://github.com/lechnerc77/myNewsWrap/tree/episode18) | 22.01.2021 | [Link](https://youtu.be/ddtJRQpMJ18) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-18-epad3c)  |
+| [Episode 19 - SAP Embrace 2.0](https://github.com/lechnerc77/myNewsWrap/tree/episode19) | 23.01.2021 | [Link](https://youtu.be/ViTyp9YCJ5Q) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-19-Special-Edition-SAP-Embrace-2-0-epbtak)  |
 
 ## Disclaimer
 
