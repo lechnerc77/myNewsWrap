@@ -30,7 +30,7 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 
 ## Next Date
 
-The next podcast will be available on Friday, 15th of January on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
+The next podcast will be available on Friday, 12th of February on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
 
 ## Overview of Episodes
 
@@ -56,6 +56,7 @@ The next podcast will be available on Friday, 15th of January on my [YouTubeChan
 | [Episode 18](https://github.com/lechnerc77/myNewsWrap/tree/episode18) | 22.01.2021 | [Link](https://youtu.be/ddtJRQpMJ18) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-18-epad3c)  |
 | [Episode 19 - SAP Embrace 2.0](https://github.com/lechnerc77/myNewsWrap/tree/episode19) | 23.01.2021 | [Link](https://youtu.be/ViTyp9YCJ5Q) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-19-Special-Edition-SAP-Embrace-2-0-epbtak)  |
 | [Episode 20](https://github.com/lechnerc77/myNewsWrap/tree/episode20) | 29.01.2021 | [Link](https://youtu.be/8Vw--T7AelY) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-20-epkvld)  |
+| [Episode 21 - incl. DSAG Technologietage 2021](https://github.com/lechnerc77/myNewsWrap/tree/episode21) | 05.02.2021 | [Link](https://youtu.be/9t9Wtk2mq5g) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-21-incl--DSAG-Technologietage-2021-epvifk)  |
 
 ## Disclaimer
 
