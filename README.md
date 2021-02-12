@@ -22,15 +22,11 @@ And let us be honest, in addition, this puts some pressure on me to do it in an 
 
 ## When?
 
-I aim to publish episodes regularly aiming at every week, but let us see how things evolve.
+I aim to publish episodes regularly every week on Friday on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
 
 ## How to give feedback and contribute?
 
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed.
-
-## Next Date
-
-The next podcast will be available on Friday, 12th of February on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
 
 ## Overview of Episodes
 
@@ -57,7 +53,7 @@ The next podcast will be available on Friday, 12th of February on my [YouTubeCha
 | [Episode 19 - SAP Embrace 2.0](https://github.com/lechnerc77/myNewsWrap/tree/episode19) | 23.01.2021 | [Link](https://youtu.be/ViTyp9YCJ5Q) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-19-Special-Edition-SAP-Embrace-2-0-epbtak)  |
 | [Episode 20](https://github.com/lechnerc77/myNewsWrap/tree/episode20) | 29.01.2021 | [Link](https://youtu.be/8Vw--T7AelY) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-20-epkvld)  |
 | [Episode 21 - incl. DSAG Technologietage 2021](https://github.com/lechnerc77/myNewsWrap/tree/episode21) | 05.02.2021 | [Link](https://youtu.be/9t9Wtk2mq5g) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-21-incl--DSAG-Technologietage-2021-epvifk)  |
-
+| [Episode 22](https://github.com/lechnerc77/myNewsWrap/tree/episode22) | 12.02.2021 | [Link](https://youtu.be/ARXQ81Z-xwo) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-22-eqa4v7)  |
 ## Disclaimer
 
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
