@@ -54,6 +54,7 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 | [Episode 20](https://github.com/lechnerc77/myNewsWrap/tree/episode20) | 29.01.2021 | [Link](https://youtu.be/8Vw--T7AelY) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-20-epkvld)  |
 | [Episode 21 - incl. DSAG Technologietage 2021](https://github.com/lechnerc77/myNewsWrap/tree/episode21) | 05.02.2021 | [Link](https://youtu.be/9t9Wtk2mq5g) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-21-incl--DSAG-Technologietage-2021-epvifk)  |
 | [Episode 22](https://github.com/lechnerc77/myNewsWrap/tree/episode22) | 12.02.2021 | [Link](https://youtu.be/ARXQ81Z-xwo) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-22-eqa4v7)  |
+| [Episode 23](https://github.com/lechnerc77/myNewsWrap/tree/episode23) | 19.02.2021 | [Link](https://youtu.be/FNqFhr615lQ) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-23-eqkhbp)  |
 ## Disclaimer
 
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
