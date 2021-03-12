@@ -56,8 +56,8 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 | [Episode 22](https://github.com/lechnerc77/myNewsWrap/tree/episode22) | 12.02.2021 | [Link](https://youtu.be/ARXQ81Z-xwo) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-22-eqa4v7)  |
 | [Episode 23](https://github.com/lechnerc77/myNewsWrap/tree/episode23) | 19.02.2021 | [Link](https://youtu.be/FNqFhr615lQ) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-23-eqkhbp)  |
 | [Episode 24](https://github.com/lechnerc77/myNewsWrap/tree/episode24) | 26.02.2021 | [Link](https://youtu.be/d4r1IASOaHo) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-24-er3rh8)  |
-| [Episode 25](https://github.com/lechnerc77/myNewsWrap/tree/episode25) | 05.03.2021 | [Link](https://youtu.be/VV6YtZ8LkH0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-25-with-Microsoft-Ignite-erlanj)  |
-
+| [Episode 25 - with Microsoft Ignite](https://github.com/lechnerc77/myNewsWrap/tree/episode25) | 05.03.2021 | [Link](https://youtu.be/VV6YtZ8LkH0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-25-with-Microsoft-Ignite-erlanj)  |
+| [Episode 26](https://github.com/lechnerc77/myNewsWrap/tree/episode26) | 05.03.2021 | [Link](https://youtu.be/-dqZC-Xbr3E) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-26-esc2lp)  |
 ## Disclaimer
 
 The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
