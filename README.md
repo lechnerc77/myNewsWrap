@@ -63,6 +63,7 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 | [Episode 29](https://github.com/lechnerc77/myNewsWrap/tree/episode29) | 02.04.2021 | [Link](https://youtu.be/6O03wXwUVWU) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-29-eu2u1o)  |
 | [Episode 30](https://github.com/lechnerc77/myNewsWrap/tree/episode30) | 09.04.2021 | [Link](https://youtu.be/-C0LscH7mms) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-30-euhvbp)  |
 | [Episode 31](https://github.com/lechnerc77/myNewsWrap/tree/episode31) | 16.04.2021 | [Link](https://youtu.be/p5OWBJR7zAY) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-31-ev12i5)  |
+| [Episode 32](https://github.com/lechnerc77/myNewsWrap/tree/episode32) | 23.04.2021 | [Link](https://youtu.be/tHhxKlDctE0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-32-evg4nr)  |
 
 ## Disclaimer
 
