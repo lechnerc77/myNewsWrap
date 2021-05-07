@@ -65,6 +65,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 31](./episodes/episode031.md) | 16.04.2021 | [Link](https://youtu.be/p5OWBJR7zAY) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-31-ev12i5)  |
 | [Episode 32](./episodes/episode032.md) | 23.04.2021 | [Link](https://youtu.be/tHhxKlDctE0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-32-evg4nr)  |
 | [Episode 33](./episodes/episode033.md) | 30.04.2021 | [Link](https://youtu.be/Ng8fAdE9ZAo) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-33-evvciu)  |
+| [Episode 34](./episodes/episode034.md) | 07.05.2021 | [Link](https://youtu.be/JXFFGATpBOs) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-34-e10dmt6)  |
 
 ## Disclaimer
 
