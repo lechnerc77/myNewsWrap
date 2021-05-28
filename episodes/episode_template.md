@@ -48,7 +48,7 @@
 
 * []()
 
-## Events and Education
+## Learning and Events
 
 * []()
 
