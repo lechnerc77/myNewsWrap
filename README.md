@@ -72,6 +72,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 38 incl. SAP SAPPHIRE NOW 2021](./episodes/episode038.md) | 04.06.2021 | [Link](https://youtu.be/qJ8hpLLprHI) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-38-incl--SAPPHIRE-NOW-2021-e1255gj)  |
 | [Episode 39](./episodes/episode039.md) | 11.06.2021 | [Link](https://youtu.be/AlKK6A4TfE4) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-39-e12irvt)  |
 | [Episode 40](./episodes/episode040.md) | 18.06.2021 | [Link](https://youtu.be/b8vGA8d29Q0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-40-e130irs)  |
+| [Episode 41](./episodes/episode041.md) | 25.06.2021 | [Link](https://youtu.be/e53WMahYB4c) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-41-e13dhv7)  |
 
 ## Disclaimer
 
