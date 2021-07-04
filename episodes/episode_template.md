@@ -5,11 +5,8 @@
 * YouTube: [Link]()
 * AnchorFM (Audio Stream): [Link]()
 
-## SAP Universe
+## SAP Universe - from the community
 
-### General
-
-* []()
 ### Business Technology Platform Core
 
 * []()
@@ -19,10 +16,6 @@
 * []()
 
 ### Kyma
-
-* []()
-
-### ABAP Steampunk
 
 * []()
 
@@ -37,6 +30,18 @@
 * []()
 
 ### Azure Functions/Serverless
+
+* []()
+
+### Power Platform
+
+* []()
+
+### Kubernetes + Containers
+
+* []()
+
+### DevOps
 
 * []()
 
@@ -58,4 +63,4 @@
 
 ## Disclaimer
 
-The podcast as well as the content of the repository represent my opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
+The podcast as well as the content of the repository represent my personal opinion and especially does not represent the one of my employer, SAP or Microsoft.
