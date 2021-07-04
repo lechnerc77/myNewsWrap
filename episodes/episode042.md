@@ -14,8 +14,8 @@
 ### Cloud Application Programing Model
 
 * [Recap on reCAP 2021](https://blogs.sap.com/2021/06/30/recap-on-recap-2021/)
-* [Additional info to reCap talk of Tiobias Hofmann](https://www.itsfullofstars.de/?p=7291)
-  * [Be aware of SAP UI% "licencing"](https://twitter.com/wolf_gregor/status/1409824809207300099?s=20)
+* [Additional info to reCap talk of Tobias Hofmann](https://www.itsfullofstars.de/?p=7291)
+  * [Be aware of SAP UI5 "licencing"](https://twitter.com/wolf_gregor/status/1409824809207300099?s=20)
 
 ### Kyma
 
