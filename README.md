@@ -1,5 +1,7 @@
 # myNewsWrap – SAP and Microsoft
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/lechnerc77/myNewsWrap)
+
 ## tl;dr
 
 If you do not want to read you can also watch:
