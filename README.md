@@ -82,7 +82,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 46](./episodes/episode046.md) | 31.07.2021 | [Link](https://youtu.be/o2oT4XzKuL4) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-46-e15917t)  |
 | [Episode 47](./episodes/episode047.md) | 06.08.2021 | [Link](https://youtu.be/8kf3fzku29M) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-47-e15i1mk)  |
 | [Episode 48](./episodes/episode048.md) | 21.08.2021 | [Link](https://youtu.be/MGPzNSCBMGc) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-48-e16838r)  |
-
+| [Episode 49](./episodes/episode049.md) | 28.08.2021 | [Link](https://youtu.be/GL64R6HVHQ0) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-49-e16iopd)  |
 ## Disclaimer
 
 The podcast as well as the content of the repository represent my personal opinion and especially does not represent the one of my employer, SAP, Microsoft or DSAG.
