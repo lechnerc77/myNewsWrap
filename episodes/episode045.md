@@ -73,7 +73,7 @@ No news this week
 * [Developer’s Guide to Azure: 2020 Edition](https://build5nines.com/free-ebook-developers-guide-to-azure-2020-edition/)
 * [Gardener Open Source Project](https://webinars.sap.com/gardener-20210727/en/registration.aspx)
 * [GitOps with Argo and Crossplane - Webinar](https://zoom.us/webinar/register/7216263389366/WN_HAvmtUjPSrKJ14vA97GarQ)
-* [Serverless Days - STudent Edition](https://student.serverlessdays.io/)
+* [Serverless Days - Student Edition](https://student.serverlessdays.io/)
 * [DSAGLive - Keynote Sessions](https://dsaglive.plazz.net/#150)
 
 ## Productivity & Developer Experience
