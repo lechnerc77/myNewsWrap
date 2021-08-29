@@ -17,7 +17,7 @@
 
 ### Kyma
 
-* [Kyma nd Eventing - NATS vs. Service Mesh](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/407d1266017f4b529b61665fa7408c41.html)
+* [Kyma and Eventing - NATS vs. Service Mesh](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/407d1266017f4b529b61665fa7408c41.html)
 
 ### Misc
 
