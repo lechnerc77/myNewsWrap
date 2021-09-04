@@ -62,7 +62,7 @@
 
 ## SAP and Microsoft - Combining both worlds
 
-* Missing the Blog Posts about Azure Synpase integration by Bartosz Jarkowski like [this](https://blogs.sap.com/2021/08/26/azure-synapse-pipelines-and-odata-part-7-delta-extraction-using-sap-extractors-and-cds-views/)?
+* Missing the Blog Posts about Azure Synapse integration by Bartosz Jarkowski like [this](https://blogs.sap.com/2021/08/26/azure-synapse-pipelines-and-odata-part-7-delta-extraction-using-sap-extractors-and-cds-views/)?
 They have been removed: <https://people.sap.com/bartosz.jarkowski4#content:blogposts>
 * [SAP on Azure #57 - The one with the journey from SAP Basis to Power Platform (Nishan Naicker)](https://youtu.be/nKbspchiaEQ)
 * [New sample repo: Intelligent Routing for SAP Cloud Integration with Azure Traffic Manager](https://github.com/SAP-samples/btp-cloud-integration-intelligent-routing)
@@ -72,7 +72,7 @@ They have been removed: <https://people.sap.com/bartosz.jarkowski4#content:blogp
 
 ## Learning and Events
 
-* [Learing JavaScript](https://twitter.com/LuiseFreese/status/1431707138414587907)
+* [Learning JavaScript](https://twitter.com/LuiseFreese/status/1431707138414587907)
   * [Link to GitHub](https://luisefreese.github.io/Learn-JavaScript-Sketchnotes/)
 * [GitHub Universe - Save the Date](https://githubuniverse.com/#)
 * [Announcing DaprCon 2021](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/)
