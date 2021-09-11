@@ -14,7 +14,7 @@
 
 ### Cloud Application Programing Model
 
-* There once was a blog about geo-spatial extensions with CAP [link](https://blogs.sap.com/2021/09/07/geospatial-extensions-with-cloud-application-programing-cap/)
+* There once was a blog about geospatial extensions with CAP [link](https://blogs.sap.com/2021/09/07/geospatial-extensions-with-cloud-application-programing-cap/)
 
 ### Kyma
 
