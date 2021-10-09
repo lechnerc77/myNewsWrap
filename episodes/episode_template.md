@@ -33,15 +33,11 @@
 
 * []()
 
-### Power Platform
-
-* []()
-
 ### Kubernetes + Containers
 
 * []()
 
-### DevOps
+### GitHub & DevOps
 
 * []()
 

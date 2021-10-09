@@ -16,7 +16,7 @@ The information is opinionated e. g. I love serverless, so expect something abou
 
 ## Why?
 
-I must anyway curate the news around SAP and Microsoft to keep up in my daily work. So instead of putting it together just for me, why not share this information. 
+I must anyway curate the news around SAP and Microsoft to keep up in my daily work. So instead of putting it together just for me, why not share this information.
 
 And let us be honest, in addition, this puts some pressure on me to do it in an organized way and regular manner :-)  
 
@@ -88,6 +88,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 52](./episodes/episode052.md) | 18.09.2021 | [Link](https://youtu.be/DureFqvee8A) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-52-e17hf92)  |
 | [Episode 53](./episodes/episode053.md) | 25.09.2021 | [Link](https://youtu.be/cFGxIWVMtsU) |[Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-53-e17s9rt)  |
 | [Episode 54](./episodes/episode054.md) | 02.10.2021 | - | - |
+| [Episode 55](./episodes/episode055.md) | 09.10.2021 | [Link](https://youtu.be/r-GMxHbtufQ) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-55-e18hlvp) |
 
 ## Disclaimer
 
