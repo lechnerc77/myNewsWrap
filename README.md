@@ -94,6 +94,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 58](./episodes/episode058.md) | 30.10.2021 | [Link](https://youtu.be/leVqkfCLayo) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-58-e19ha2a) |
 | [Episode 59 with Microsoft Ignite](./episodes/episode059.md) | 06.11.2021 | [Link](https://youtu.be/tywrSE2rVZo) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-59-with-Microsoft-Ignite-e19rtg5) |
 | [Episode 60](./episodes/episode060.md) | 13.11.2021 | [Link](https://youtu.be/NwwQt8mCKmA) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-60-e1a7btj) |
+| [Episode 61 - with SAP TechEd 2021](./episodes/episode061.md) | 20.11.2021 | [Link](https://youtu.be/WE5wB1S7SiQ) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-61-e1aifh2) |
 
 ## Disclaimer
 
