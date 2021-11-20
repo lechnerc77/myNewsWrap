@@ -1,4 +1,4 @@
-# Episode XX: myNewsWrap – SAP and Microsoft
+# Episode 46: myNewsWrap – SAP and Microsoft
 
 ## Links to Video and Podcast
 
