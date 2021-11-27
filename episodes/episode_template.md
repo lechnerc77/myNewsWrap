@@ -9,13 +9,7 @@
 
 ### Business Technology Platform Core
 
-* []()
-
-### Cloud Application Programing Model
-
-* []()
-
-### Kyma
+#### Kyma
 
 * []()
 
@@ -25,15 +19,11 @@
 
 ## Microsoft Universe
 
-### General
-
-* []()
-
 ### Azure Functions/Serverless
 
 * []()
 
-### Kubernetes + Containers
+### Containers, Azure Container Apps and Kubernetes
 
 * []()
 
