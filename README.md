@@ -97,6 +97,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 61 - with SAP TechEd 2021](./episodes/episode061.md) | 20.11.2021 | [Link](https://youtu.be/WE5wB1S7SiQ) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-61-e1aifh2) |
 | [Episode 62](./episodes/episode062.md) | 27.11.2021 | [Link](https://youtu.be/OHgBmpuhhHY) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-62-e1asut4) |
 | [Episode 63](./episodes/episode063.md) | 04.12.2021 | [Link](https://youtu.be/swzHX34Guoo) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-63-e1b7uds) |
+| [Episode 64](./episodes/episode064.md) | 11.12.2021 | [Link](https://youtu.be/ua9zNKEHux0) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-64-e1bie0f) |
 
 ## Disclaimer
 
