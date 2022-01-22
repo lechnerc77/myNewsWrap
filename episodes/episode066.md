@@ -10,7 +10,7 @@
 ### Business Technology Platform Core
 
 * [SAP BTP Unified Runtime | Ready for the Next Wave?](https://blogs.sap.com/2021/12/22/sap-btp-unified-runtime-ready-for-the-next-wave/)
-* [https://blogs.sap.com/2022/01/04/sap-btp-onboarding-series-sap-btp-cockpit-global-account-technical-overview/](https://blogs.sap.com/2022/01/04/sap-btp-onboarding-series-sap-btp-cockpit-global-account-technical-overview/)
+* [[SAP BTP Onboarding Series] SAP BTP Cockpit – Global Account Technical Overview](https://blogs.sap.com/2022/01/04/sap-btp-onboarding-series-sap-btp-cockpit-global-account-technical-overview/)
 
 #### Kyma
 
