@@ -16,7 +16,7 @@ No news this week
 ### Misc
 
 * [SAP Event Mesh: Multitenant Sample Scenario 2](https://blogs.sap.com/2022/02/08/sap-event-mesh-multitenant-sample-scenario-2/)
-* [https://blogs.sap.com/2022/02/07/is-sap-business-technology-platform-ready-for-developing-industry-cloud-saas-applications/](https://blogs.sap.com/2022/02/07/is-sap-business-technology-platform-ready-for-developing-industry-cloud-saas-applications/)
+* [Is SAP Business Technology Platform Ready for Developing Industry Cloud SaaS Applications?](https://blogs.sap.com/2022/02/07/is-sap-business-technology-platform-ready-for-developing-industry-cloud-saas-applications/)
 
 ## Microsoft Universe
 
