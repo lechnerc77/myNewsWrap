@@ -35,7 +35,7 @@
 
 * []()
 
-## SAP and Microsoft - Combining both worlds
+## 🐱‍👤 SAP and Microsoft - Combining both worlds 🐱‍👤
 
 * []()
 

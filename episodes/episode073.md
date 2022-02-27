@@ -61,7 +61,7 @@ Kyma 2.0 is available on SAP BTP!
 * [CloudKnox Permissions Management is now in Public Preview](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/cloudknox-permissions-management-is-now-in-public-preview/ba-p/2464391?WT.mc_id=AZ-MVP-5004195)
 * [Requiring two-factor authentication on NuGet.org](https://devblogs.microsoft.com/nuget/requiring-two-factor-authentication-on-nuget-org/)
 
-## SAP and Microsoft - Combining both worlds
+## 🐱‍👤 SAP and Microsoft - Combining both worlds 🐱‍👤
 
 * [SAP on Azure Video Podcast #81 - The one with updates on Microsoft Sentinel for SAP (Yoav Daniely, Koby Mymon, Aaron Hillard)](https://youtu.be/mn0kqpxitsQ)
 * [https://blogs.sap.com/2022/02/25/btp-private-linky-swear-with-azure-connecting-to-not-yet-supported-paas-with-private-link-service-for-azure/](https://blogs.sap.com/2022/02/25/btp-private-linky-swear-with-azure-connecting-to-not-yet-supported-paas-with-private-link-service-for-azure/?WT.mc_id=DOP-MVP-5004195)
