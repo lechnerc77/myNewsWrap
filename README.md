@@ -107,6 +107,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 73](./episodes/episode073.md) | 26.02.2022 | [Link](https://youtu.be/qYafaWj0MYk) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-73-e1euko7) |
 | [Episode 74](./episodes/episode074.md) | 05.03.2022 | [Link](https://youtu.be/duaoprGQ7No) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-74-e1f94pk) |
 | [Episode 75](./episodes/episode075.md) | 12.03.2022 | [Link](https://youtu.be/8iJletC4394) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-75-e1fjtti) |
+| [Episode 76](./episodes/episode076.md) | 19.03.2022 | [Link](https://youtu.be/24fOSq0fG78) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-76-e1fukb9) |
 
 ## Disclaimer
 
