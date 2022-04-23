@@ -112,6 +112,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 78](./episodes/episode078.md) | 02.04.2022 | [Link](https://youtu.be/1vXiA2Zwffg) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-78-e1gk5f3) |
 | [Episode 79](./episodes/episode079.md) | 09.04.2022 | [Link](https://youtu.be/DKszRZ-QIX8) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-79-e1gutb9) |
 | [Episode 80](./episodes/episode080.md) | 15.04.2022 | [Link](https://youtu.be/MoARiN5dmwE) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-80-e1h8i5l) |
+| [Episode 81](./episodes/episode081.md) | 23.04.2022 | [Link](https://youtu.be/Ij_girBWsT0) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-81-e1hi80b) |
 
 ## Disclaimer
 
