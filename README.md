@@ -116,7 +116,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 82](./episodes/episode082.md) | 30.04.2022 | [Link](https://youtu.be/XfeOuECE2aU) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-82-e1hrl6k) |
 | [Episode 83](./episodes/episode083.md) | 07.05.2022 | [Link](https://youtu.be/_kQ96-xTc5A) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-83-incl--DSAG-Technologietage-2022-e1i6ngt) |
 | [Episode 84](./episodes/episode084.md) | 14.05.2022 | [Link](https://youtu.be/vOzrR9BpzCI) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-84-incl--SAP-SAPPHIRE-2022-e1ih2k0) |
-| [Episode 85](./episodes/episode085.md) | xx.05.2022 | [Link](https://youtu.be/QXD8M_tf-eA) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-85-----The-End-e1iri6d) |
+| [Episode 85](./episodes/episode085.md) | 21.05.2022 | [Link](https://youtu.be/QXD8M_tf-eA) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-85-----The-End-e1iri6d) |
 
 ## Overview of Episodes (News only; starting with Episode 86)
 
