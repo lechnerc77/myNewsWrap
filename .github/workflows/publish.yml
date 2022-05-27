@@ -1,0 +1,24 @@
+name: Publishing post
+
+on:
+#  push:
+#    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Publishing post
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: npm ci
+      - run: DEV_TO_API_KEY=${{secrets.DEV_TO_API_KEY}}  npm run publish:devto
+      - run: |
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Add dev.to link to metadata"
+          git push origin main

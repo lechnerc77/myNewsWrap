@@ -1,0 +1,23 @@
+{
+  "name": "mynewswrap",
+  "version": "1.0.0",
+  "description": "myNewsWarp - News from the SAP and Microsoft universe",
+  "main": "index.js",
+  "scripts": {
+    "publish:devto": "node ./publish/devtopublisher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechnerc77/myNewsWrap.git"
+  },
+  "author": "Christian Lechner",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lechnerc77/myNewsWrap/issues"
+  },
+  "homepage": "https://github.com/lechnerc77/myNewsWrap#readme",
+  "dependencies": {
+    "gray-matter": "4.0.3",
+    "node-fetch": "2.6.7"
+  }
+}
