@@ -26,7 +26,7 @@ I aim to publish episodes regularly every week on Friday on my [YouTubeChannel](
 
 I am happy to receive feedback via issues. This way you can also draw my attention to stuff that you want to propose to be mentioned in future episodes and that I have missed.
 
-## Overview of Episodes (with Podcast)
+## Overview of Episodes Season 1 (the one with the Video Podcast)
 
 The show notes for the episodes are contained in the [episodes](episodes) folder.
 
@@ -118,7 +118,7 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 | [Episode 84](./episodes/episode084.md) | 14.05.2022 | [Link](https://youtu.be/vOzrR9BpzCI) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-84-incl--SAP-SAPPHIRE-2022-e1ih2k0) |
 | [Episode 85](./episodes/episode085.md) | 21.05.2022 | [Link](https://youtu.be/QXD8M_tf-eA) | [Link](https://anchor.fm/christian-lechner/episodes/myNewsWrap--SAP-and-Microsoft-Episode-85-----The-End-e1iri6d) |
 
-## Overview of Episodes (News only; starting with Episode 86)
+## Overview of Episodes - Season 2 (News only)
 
 | Episode                                | Date       |
 |----------------                        |------------|
