@@ -20,5 +20,7 @@ jobs:
       - run: DEV_TO_API_KEY=${{secrets.DEV_TO_API_KEY}}  npm run publish:devto
       - run: |
           git add -A
+          git config user.email "lechnerc77@users.noreply.github.com"
+          git config user.name "Christian Lechner"
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Add dev.to link to metadata"
           git push origin main
