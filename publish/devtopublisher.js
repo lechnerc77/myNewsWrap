@@ -38,7 +38,7 @@ function getPost2Publish() {
                 main_image: "https://raw.githubusercontent.com/lechnerc77/myNewsWrap/main/pics/Logo_small.jpg",
                 description: episodeWa.data.description,
                 tags: episodeWa.data.tags.split(', '),
-                published: false
+                published: true
             }
         }
 
