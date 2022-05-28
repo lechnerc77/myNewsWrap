@@ -20,7 +20,8 @@ And let us be honest, in addition, this puts some pressure on me to do it in an 
 
 ## When?
 
-I aim to publish episodes regularly every week on Friday on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
+I aim to publish episodes regularly every week on Saturday. Until episode 85 I presented the news on my [YouTubeChannel](https://www.youtube.com/channel/UCeaAZSNyP3MbyGe_1KKZADA?view_as=subscriber).
+With episode 86 I switched and there will be no more weekly videos. I will continue publishing the collection of news here on Github as well as on [dev.to](https://dev.to/lechnerc77).   
 
 ## How to give feedback and contribute?
 
@@ -28,7 +29,7 @@ I am happy to receive feedback via issues. This way you can also draw my attenti
 
 ## Overview of Episodes Season 1 (the one with the Video Podcast)
 
-The show notes for the episodes are contained in the [episodes](episodes) folder.
+The show notes for the episodes of Season 1 are contained in the [episodes](episodes) folder.
 
 | Episode        | Date       | YouTube  | AnchorFM |
 |----------------|------------|----------|----------|
@@ -120,9 +121,11 @@ The show notes for the episodes are contained in the [episodes](episodes) folder
 
 ## Overview of Episodes - Season 2 (News only)
 
-| Episode                                | Date       |
-|----------------                        |------------|
-| Episode 86                             | xx.05.2022 |
+You find the collection of news in the folder season2 in the episodes folder of this repository. In addition, you find the collection as blog post on dev.to generated based on the episode description here in this repository (see introductory blog post  on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-sap-and-microsoft-its-season-2-261c)). The links to these blog posts are available in the metadata of the episodes. 
+
+| Episode                                                                            | Date       |
+|---                                                                                 |---         |
+| [Episode 86](/episodes/season2/episode086.md) incl. News from Microsoft Build 2022 | 28.05.2022 |
 
 ## Disclaimer
 
