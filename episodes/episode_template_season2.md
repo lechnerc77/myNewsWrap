@@ -7,7 +7,7 @@ cover_image: /images/cover-images/12_cover_image.jpeg
 series: 'myNewsWrap - SAP and Microsoft'
 ---
 
-# Episode 86: myNewsWrap – SAP and Microsoft
+# Episode xx: myNewsWrap – SAP and Microsoft
 
 Welcome to this week's edition of myNewsWrap, news from the world of SAP, Microsoft and the world in between.
 
@@ -55,7 +55,7 @@ Interested in some new from the broader Microsoft ecosystem? Then here are some 
 
 * []()
 
-## 🐱‍👤 SAP and Microsoft - Combining both worlds 🐱‍👤
+## 🐱‍👤 SAP and Microsoft - Combining both worlds
 
 Now let's enter the _twilight zone_ (no worries the ninja cat is with us) between SAP and Microsoft and see the magic happening when we combine both worlds:
 
