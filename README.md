@@ -128,6 +128,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 86](/episodes/season2/episode086.md) incl. News from Microsoft Build 2022 | 28.05.2022 |
 | [Episode 87](/episodes/season2/episode087.md)                                      | 04.06.2022 |
 | [Episode 88](/episodes/season2/episode088.md)                                      | 11.06.2022 |
+| [Episode 89](/episodes/season2/episode089.md)                                      | 18.06.2022 |
 
 ## Disclaimer
 

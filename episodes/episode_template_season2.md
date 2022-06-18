@@ -67,6 +67,10 @@ We always want to learn, so here are some links to some interesting learning res
 
 * []()
 
+And heads up for upcoming events:
+
+* []()
+
 ## Golo's Corner
 
 As a regular guest and due to the high-quality content here an overview what [Golo Roden](https://twitter.com/goloroden) provided us this week:
