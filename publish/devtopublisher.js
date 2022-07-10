@@ -35,7 +35,7 @@ function getPost2Publish() {
                 title: episodeWa.data.title,
                 body_markdown: episodeWa.content,
                 series: episodeWa.data.series,
-                main_image: "https://raw.githubusercontent.com/lechnerc77/myNewsWrap/main/pics/Logo_small.jpg",
+                main_image: episodeWa.data.cover_image,
                 description: episodeWa.data.description,
                 tags: episodeWa.data.tags.split(', '),
                 published: true
