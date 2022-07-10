@@ -38,7 +38,7 @@ function getPost2Publish() {
                 main_image: episodeWa.data.cover_image,
                 description: episodeWa.data.description,
                 tags: episodeWa.data.tags.split(', '),
-                published: false
+                published: true
             }
         }
 
