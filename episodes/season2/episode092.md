@@ -1,14 +1,14 @@
 ---
-title: 'Episode 92: myNewsWrap – SAP and Microsoft'
-created: '2022-07-09'
+title: 'Episode 93: myNewsWrap – SAP and Microsoft'
+created: '2022-07-10'
 description: Weekly news update from the SAP and Microsoft universe.
 tags: 'sap, azure, serverless, kubernetes'
-cover_image: /images/cover-images/12_cover_image.jpeg
+cover_image: 'https://raw.githubusercontent.com/lechnerc77/myNewsWrap/test-image/episodes/season2/cover-images/episode92-cover-image.jpg'
 series: 'myNewsWrap - SAP and Microsoft'
-dev_to_link: https://dev.to/lechnerc77/episode-92-mynewswrap-sap-and-microsoft-n5b
+dev_to_link: 
 ---
 
-# Episode 92: myNewsWrap – SAP and Microsoft
+# Episode 93: myNewsWrap – SAP and Microsoft
 
 Welcome to this week's edition of myNewsWrap, news from the world of SAP, Microsoft and the world in between.
 
