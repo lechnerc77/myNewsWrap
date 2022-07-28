@@ -39,7 +39,7 @@ Now let's look at the Microsoft universe.
 
 Here is what happened this week in the serverless space like Azure Functions and Static Web Apps:
 
-* [Lessons Learned From Running Serverless In Production For 5 Years](ttps://lumigo.io/blog/lessons-learned-running-serverless-in-production/)
+* [Lessons Learned From Running Serverless In Production For 5 Years](https://lumigo.io/blog/lessons-learned-running-serverless-in-production/)
 
 ### Containers, Azure Container Apps and Kubernetes
 
