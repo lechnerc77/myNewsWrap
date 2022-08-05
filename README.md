@@ -135,6 +135,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 93](/episodes/season2/episode093.md)                                      | 16.07.2022 |
 | [Episode 94](/episodes/season2/episode094.md)                                      | 23.07.2022 |
 | [Episode 95](/episodes/season2/episode095.md)                                      | 30.07.2022 |
+| [Episode 96](/episodes/season2/episode096.md)                                      | 04.08.2022 |
 
 ## Disclaimer
 
