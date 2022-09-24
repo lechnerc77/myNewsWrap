@@ -13,17 +13,7 @@ Welcome to this week's edition of myNewsWrap, news from the world of SAP, Micros
 
 ## SAP Universe - from the community
 
-Let's us start with the SAP side of the house i. e. news around the Business Technology Platform.
-
-### Business Technology Platform Core - Kyma
-
-Let's see what happened around Kyma:
-
-* []()
-
-### Misc
-
-And here some links from the broader SAP ecosystem:
+Let's us start with the SAP side of the house i. e. news around the Business Technology Platform and news from the broader SAP ecosystem:
 
 * []()
 
