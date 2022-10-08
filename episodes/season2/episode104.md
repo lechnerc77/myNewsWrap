@@ -72,7 +72,7 @@ Interested in some new from the broader Microsoft ecosystem? Then here are some 
 
 Now let's enter the _twilight zone_ (no worries the ninja cat is with us) between SAP and Microsoft and see the magic happening when we combine both worlds:
 
-* [Your SAP on Azure – Part 29 – The CDC Connector in Azure Data Factory](https://blogs.sap.com/2022/09/30/your-sap-on-azure-part-29-the-cdc-connector-in-azure-data-factory/)
+* Your SAP on Azure – Part 29 – The CDC Connector in Azure Data Factory => was removed from community
 * [SAP on Azure Video Podcast #112 - The one with SAP on DB2 (Peter Kalan)](https://youtu.be/aKs2wK_ZH5g)
 
 ## Learning and Events

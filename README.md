@@ -144,6 +144,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 102](/episodes/season2/episode102.md)                                     | 17.09.2022 |
 | [Episode 103](/episodes/season2/episode103.md)                                     | 24.09.2022 |
 | [Episode 104](/episodes/season2/episode104.md)                                     | 01.10.2022 |
+| [Episode 105](/episodes/season2/episode105.md)                                     | 08.10.2022 |
 
 ## Disclaimer
 
