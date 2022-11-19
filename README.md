@@ -145,11 +145,11 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 103](/episodes/season2/episode103.md)                                     | 24.09.2022 |
 | [Episode 104](/episodes/season2/episode104.md)                                     | 01.10.2022 |
 | [Episode 105](/episodes/season2/episode105.md)                                     | 08.10.2022 |
-| [Episode 106](/episodes/season2/episode106.md)                                     | 15.10.2022 |
+| [Episode 106](/episodes/season2/episode106.md) Microsoft Ignite 2022               | 15.10.2022 |
 | [Episode 107](/episodes/season2/episode107.md)                                     | 22.10.2022 |
 | [Episode 108](/episodes/season2/episode108.md)                                     | 29.10.2022 |
 | [Episode 109](/episodes/season2/episode109.md)                                     | 05.11.2022 |
-| [Episode 110](/episodes/season2/episode110.md) incl GitHub Universe 2022           | 12.11.2022 |
+| [Episode 110](/episodes/season2/episode110.md) incl. GitHub Universe 2022          | 12.11.2022 |
 | [Episode 111](/episodes/season2/episode111.md) incl. SAP TechEd 2022               | 19.11.2022 |
 
 ## Disclaimer
