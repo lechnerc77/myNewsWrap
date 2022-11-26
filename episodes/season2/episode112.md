@@ -5,6 +5,7 @@ description: Weekly news update from the SAP and Microsoft universe.
 tags: 'sap, azure, serverless, kubernetes'
 cover_image: 'https://raw.githubusercontent.com/lechnerc77/myNewsWrap/main/episodes/cover-images/episode112small.png'
 series: 'myNewsWrap - SAP and Microsoft'
+dev_to_link: https://dev.to/lechnerc77/episode-112-mynewswrap-sap-and-microsoft-3n3n
 ---
 
 # Episode 112: myNewsWrap – SAP and Microsoft
