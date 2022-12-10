@@ -153,6 +153,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 111](/episodes/season2/episode111.md) incl. SAP TechEd 2022               | 19.11.2022 |
 | [Episode 112](/episodes/season2/episode112.md)                                     | 26.11.2022 |
 | [Episode 113](/episodes/season2/episode113.md)                                     | 03.12.2022 |
+| [Episode 114](/episodes/season2/episode114.md)                                     | 10.12.2022 |
 
 ## Disclaimer
 
