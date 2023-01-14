@@ -73,4 +73,4 @@ Last but not least, some links that might make our developer live easier and ref
 
 * []()
 
-And with this enjoy your weekend and have a successful next week!
+**And with this enjoy your weekend and have a successful next week!**
