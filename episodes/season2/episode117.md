@@ -94,8 +94,8 @@ We always want to learn, so here are some links to some interesting learning res
 * [A few thoughts and information about the possibility of renewing Microsoft certifications!](https://techcommunity.microsoft.com/t5/microsoft-learn/a-few-thoughts-and-information-about-the-possibility-of-renewing/m-p/3711215)
 * [Actions speak louder than words: Building better communities](https://youtu.be/9aU4isQeYhY)
 * Some Learning around OAuth:
-   * [Getting started with OAuth 2.0](https://youtu.be/1F2nQFdY4cs)
-   * [More OAuth 2.0](https://youtu.be/lkK9DLvmje0)
+  * [Getting started with OAuth 2.0](https://youtu.be/1F2nQFdY4cs)
+  * [More OAuth 2.0](https://youtu.be/lkK9DLvmje0)
 
 And heads up for upcoming events:
 
