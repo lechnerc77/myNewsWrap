@@ -158,6 +158,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 116](/episodes/season2/episode116.md) - The New Year Edition 🎆           | 07.01.2023 |
 | [Episode 117](/episodes/season2/episode117.md)                                     | 14.01.2023 |
 | [Episode 118](/episodes/season2/episode118.md)                                     | 21.01.2023 |
+| [Episode 119](/episodes/season2/episode119.md)                                     | 28.01.2023 |
 
 ## Disclaimer
 
