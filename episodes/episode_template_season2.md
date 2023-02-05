@@ -15,7 +15,7 @@ Welcome to this week's edition of myNewsWrap, news from the world of SAP, Micros
 
 Let's us start with the SAP side of the house i. e. news around the Business Technology Platform and news from the broader SAP ecosystem:
 
-* []()
+* []() by
 
 ## Microsoft Universe
 
@@ -25,37 +25,53 @@ Now let's look at the Microsoft universe.
 
 Here is what happened this week in the serverless space like Azure Functions and Static Web Apps:
 
-* []()
+* []() by
 
 ### Containers, Azure Container Apps and Kubernetes
 
 From Serverless to Containers, Azure Container Apps and Kubernetes - what did this week provide us with?
 
-* []()
+* []() by
 
 ### GitHub & DevOps
 
 What happened in the area of DevOps and esp. GitHub - let's see:
 
-* []()
+* []() by
+
+#### GitHub in general (issues, discussions etc.)
+
+* []() by
+
+#### GitHub security and Dependabot
+
+* []() by
+
+#### GitHub Actions
+
+* []() by
+
+#### GitHub other topcis
+
+* []() by
 
 ### Misc
 
 Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
 
-* []()
+* []() by
 
 ## 🐱‍👤 SAP and Microsoft - Combining both worlds
 
 Now let's enter the _twilight zone_ (no worries the ninja cat is with us) between SAP and Microsoft and see the magic happening when we combine both worlds:
 
-* []()
+* []() by
 
 ## Learning and Events
 
 We always want to learn, so here are some links to some interesting learning resources and upcoming events:
 
-* []()
+* []() by
 
 And heads up for upcoming events:
 
@@ -71,6 +87,6 @@ As a regular guest and due to the high-quality content here an overview what [Go
 
 Last but not least, some links that might make our developer live easier and reflect on our profession:
 
-* []()
+* []() by
 
 **And with this enjoy your weekend and have a successful next week!**
