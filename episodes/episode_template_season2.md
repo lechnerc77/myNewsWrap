@@ -83,7 +83,7 @@ As a regular guest and due to the high-quality content here an overview what [Go
 
 * []()
 
-## Productivity & Developer Experience
+## Developer Experience
 
 Last but not least, some links that might make our developer live easier and reflect on our profession:
 
