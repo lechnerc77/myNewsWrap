@@ -35,7 +35,7 @@ Here is what happened this week in the serverless space like Azure Functions and
 From Serverless to Containers, Azure Container Apps and Kubernetes - what did this week provide us with?
 
 * [Introducing Kwok](https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/)
-* [Azure Cloud Native presents David Frappart](https://www.youtube.com/live/fIkDR_bN3bc?feature=share) with Davd Fraport on the state of identity in AKS
+* [Azure Cloud Native presents David Frappart](https://www.youtube.com/live/fIkDR_bN3bc?feature=share) with David Frappart on the state of identity in AKS
 * [Announcing public preview of confidential containers on Azure Container Instances](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-of-confidential-containers-on-azure/ba-p/3755623?WT.mc_id=AZ-MVP-5004195) by Peter Pogorski
 * [Deploying a containerized FastAPI app to Azure Container Apps](https://blog.pamelafox.org/2023/03/deploying-containerized-fastapi-app-to.html)
 * [Debugging Dapr applications with Rider or Visual Studio: A better way](https://laurentkempe.com/2023/02/27/debugging-dapr-applications-with-rider-or-visual-studio-a-better-way/) by Laurent Kempé
