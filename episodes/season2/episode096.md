@@ -68,7 +68,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Well-Architected Go-Live now available on the Microsoft Assessment Platform](https://techcommunity.microsoft.com/t5/azure-migration-and/well-architected-go-live-now-available-on-the-microsoft/ba-p/3521561)
 * [Hydrogen fuel cells could provide emission free backup power at datacenters, Microsoft says](https://news.microsoft.com/innovation-stories/hydrogen-fuel-cells-could-provide-emission-free-backup-power-at-datacenters-microsoft-says/)

@@ -62,7 +62,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Creating an authorized Microservice - Secured Blob Exchange](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/creating-an-authorized-microservice-secured-blob-exchange/ba-p/3675214)
 * [A Primer on Distributed Systems Observability](https://itnext.io/a-primer-on-distributed-systems-observability-a0c2a8e2146c)

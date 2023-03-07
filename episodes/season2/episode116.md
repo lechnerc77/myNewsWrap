@@ -60,7 +60,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft to roll out ‘data boundary’ for EU customers from Jan. 1](https://www.reuters.com/technology/microsoft-roll-out-data-boundary-eu-customers-jan-1-2022-12-15/)
 

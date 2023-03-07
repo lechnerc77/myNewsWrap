@@ -74,7 +74,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Part 1 - Azdev-ify what?](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/part-1-azdev-ify-what/ba-p/3644493)
 * [Azure Developer CLI (azd) – October 2022 Release](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-october-2022-release/)

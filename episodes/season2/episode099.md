@@ -72,7 +72,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Azure SignalR Local Emulator](https://github.com/Azure/azure-signalr/blob/dev/docs/emulator.md) - what!
 * [Cloud pubsub services compared: Azure Web PubSub vs Ably](https://youtu.be/sPgHwm3-yiM)

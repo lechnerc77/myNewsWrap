@@ -57,7 +57,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [How to use Azure Management APIs in C# with Azure.Identity](https://www.blueboxes.co.uk/how-to-use-azure-management-apis-in-c-with-azure.identity)
 * [AZURE WEB APP USING AZURE SQL USING PRIVATE ENDPOINTS](https://gregorsuttie.com/2023/01/16/azure-web-app-using-azure-sql-using-private-endpoints/)

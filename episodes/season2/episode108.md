@@ -62,7 +62,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Advanced Microsoft Authenticator security features are now generally available!](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/advanced-microsoft-authenticator-security-features-are-now/ba-p/2365673?WT.mc_id=AZ-MVP-5004195)
 * [Microsoft’s GitHub is relying more on Azure, says cloud chief](https://www.cnbc.com/2022/10/12/microsoft-github-relying-more-on-azure-cloud-services-scott-guthrie.html)

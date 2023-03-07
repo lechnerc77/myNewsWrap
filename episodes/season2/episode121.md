@@ -72,7 +72,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Build a meetings app with Azure Communication Services, Microsoft Graph and Microsoft Teams - Part 1](https://techcommunity.microsoft.com/t5/azure-communication-services/build-a-meetings-app-with-azure-communication-services-microsoft/ba-p/3730104) by Daysha Carter
 * [Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)

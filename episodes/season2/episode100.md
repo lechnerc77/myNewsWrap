@@ -69,7 +69,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * This looks really interesting: [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/?WT.mc_id=DT-MVP-5004195)
 * [Elevate your visualizations with Azure Managed Grafana—now generally available](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/?WT.mc_id=AZ-MVP-5004195)

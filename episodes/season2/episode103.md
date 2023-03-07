@@ -57,7 +57,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * New Release of the [Azure Developer CLI](https://github.com/Azure/azure-dev/releases/tag/azure-dev-cli_0.2.0-beta.2) - take a look at the "Other changes" 🤩
 * [Introducing the Automation Kit for Power Platform](https://powerautomate.microsoft.com/en-us/blog/introducing-the-automation-kit-for-power-platform/)

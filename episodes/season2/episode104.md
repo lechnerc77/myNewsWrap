@@ -64,7 +64,7 @@ A bit off-topic, but certainly worth sharing: [GitHub supports internet freedom 
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * My current favorite .. azd: [Introducing the Azure Developer CLI (azd) | Azure Friday](https://youtu.be/VTk-FhJyo7s)
 

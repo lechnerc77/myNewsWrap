@@ -72,7 +72,7 @@ All things Open Source:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [PowerShell 7.3 General Availability](https://devblogs.microsoft.com/powershell/powershell-7-3-general-availability/)
 * [Arm64 Visual Studio is officially here!](https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/)

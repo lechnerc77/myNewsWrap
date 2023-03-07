@@ -71,7 +71,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [How to: Send images from Azure Logic Apps to a Custom API – as Multipart From-Data](https://tomow.de/dev/how-to-send-images-from-azure-logic-apps-to-a-custom-api-as-multipart-from-data/)
 

@@ -66,7 +66,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [CREATE SERVICE PRINCIPAL AND STORE SECRET IN KEY VAULT USING AZ DEVOPS](https://dev.to/arindam0310018/create-service-principal-and-store-secret-in-key-vault-2i37)
 * [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)

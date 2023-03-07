@@ -59,7 +59,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Azure Messaging and Streaming Update - July 2022](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/azure-messaging-and-streaming-update-july-2022/ba-p/3575064)
 

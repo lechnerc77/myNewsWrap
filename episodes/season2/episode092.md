@@ -71,7 +71,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Azure läuft wohl teils mit deutlich limitierter Kapazität](https://www.golem.de/news/microsoft-azure-laeuft-wohl-teils-mit-deutlich-limitierter-kapazitaet-2207-166602.amp.html)
 * [Using Azure Service Bus in the wild](https://devblogs.microsoft.com/azure-sdk/using-azure-service-bus-in-the-wild/)
