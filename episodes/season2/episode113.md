@@ -62,7 +62,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft Entra Workload Identities now generally available](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/microsoft-entra-workload-identities-now-generally-available/ba-p/3402815)
 * [Introducing Mona Sans and Hubot Sans](https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/)

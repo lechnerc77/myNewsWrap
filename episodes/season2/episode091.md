@@ -76,7 +76,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Defending Ukraine: Early Lessons from the Cyber War](https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/)
 * [Developing a Cloud-Native Application on Microsoft Azure Using Open Source Technologies](https://www.infoq.com/articles/cloud-native-development-azure/)

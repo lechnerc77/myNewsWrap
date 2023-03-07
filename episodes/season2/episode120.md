@@ -78,7 +78,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Health modeling for mission-critical workloads on Azure | Azure Friday](https://youtu.be/9B4oC2J3nXw)
 * [Implementing Microsoft Azure cost optimization internally at Microsoft](https://www.microsoft.com/insidetrack/blog/implementing-microsoft-azure-cost-optimization-internally-at-microsoft/)

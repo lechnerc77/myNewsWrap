@@ -67,7 +67,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Generally available: Audit log for continuous mode with Azure Cosmos DB](https://azure.microsoft.com/updates/generally-available-audit-log-for-continuous-mode-with-azure-cosmos-db/)
 * [Relationship Between Logic Apps & Power Automate](https://youtu.be/3OixNSZkcuo)

@@ -67,7 +67,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft Azure Tagging Conventions](https://luke.geek.nz/azure/microsoft-azure-tagging-conventions/)
 * [General availability: New portal experience for Microsoft Artifact Registry](https://azure.microsoft.com/updates/general-availability-new-portal-experience-for-microsoft-artifact-registry/?WT.mc_id=AZ-MVP-5004195)

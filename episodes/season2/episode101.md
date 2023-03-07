@@ -69,7 +69,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Generally available: Kusto Emulator](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/generally-available-kusto-emulator/ba-p/3616093)
 * [General availability: Azure Cosmos DB integrated cache](https://azure.microsoft.com/updates/general-availability-azure-cosmos-db-integrated-cache/)

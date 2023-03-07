@@ -67,7 +67,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft open sources Salus software bill of materials (SBOM) generation tool](https://devblogs.microsoft.com/engineering-at-microsoft/microsoft-open-sources-salus-software-bill-of-materials-sbom-generation-tool/?WT.mc_id=DOP-MVP-5004195)
 * [Azure Resiliency – Business Continuity and Disaster Recovery ](https://www.linkedin.com/posts/daviddasneves_azure-resiliency-business-continuity-and-activity-6951936888744103936-qkZB)

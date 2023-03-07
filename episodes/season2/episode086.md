@@ -85,7 +85,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * _Announced at Build 2022:_ [Announcing Service Bus Explorer for Azure portal public preview](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/announcing-service-bus-explorer-for-azure-portal-public-preview/ba-p/3417168)
 * _Announced at Build 2022:_ [Announced at Microsoft Build: New features for scalable, cost-effective application development](https://devblogs.microsoft.com/cosmosdb/announced-at-microsoft-build-new-features-for-scalable-cost-effective-application-development/)

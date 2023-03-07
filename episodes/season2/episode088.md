@@ -74,7 +74,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Efficient OAuth Authorisation Management in Azure API Management](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/efficient-oauth-authorisation-management-in-azure-api-management/ba-p/3469041?WT.mc_id=DT-MVP-5004195)
 

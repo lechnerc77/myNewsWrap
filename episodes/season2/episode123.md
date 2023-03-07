@@ -64,7 +64,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Deploy your mission-critical workload in an Azure landing zone | Azure Friday](https://youtu.be/tHMHh5VU-kQ) by Hansjoerg Scherer and Scott Hanselman
 * [State of the Azure SDK 2023](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2023/)

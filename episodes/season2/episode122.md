@@ -77,7 +77,7 @@ What happened in the area of DevOps and esp. GitHub - let's see
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft Lifecycle Policy](https://learn.microsoft.com/lifecycle/) - that's really useful imho
 * [OpenAI & Microsoft Power Platform](https://microsoft.github.io/Low-Code/blog/2023-day15/) - That's a good match

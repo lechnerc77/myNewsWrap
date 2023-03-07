@@ -58,7 +58,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * First things first - the Azure Developer CLI community call: [What's new in the Azure Developer CLI (azd) - January 2023 release](https://www.youtube.com/live/uhFXxHnhJts?feature=share)
 * [Azure Native New Relic Service: Full stack observability in minutes](https://azure.microsoft.com/blog/azure-native-new-relic-service-full-stack-observability-in-minutes/)

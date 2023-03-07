@@ -57,7 +57,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [General availability: Azure SDK for Go](https://azure.microsoft.com/updates/general-availability-azure-sdk-for-go/?WT.mc_id=AZ-MVP-5004195)
 * [Azure Storage Account Redundancy explained in a diagram](https://cloudbuild.co.uk/azure-storage-replication-options-explained-in-a-diagram/)

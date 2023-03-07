@@ -59,7 +59,7 @@ And an organizational note: [Hello from GitHub’s new Chief Product Officer](ht
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Microsoft and Isovalent partner to bring next generation eBPF dataplane for cloud-native applications in Azure](https://azure.microsoft.com/blog/microsoft-and-isovalent-partner-to-bring-next-generation-ebpf-dataplane-for-cloudnative-applications-in-azure/)
 * [Managing, reporting, and reducing your costs in Azure | Azure Friday](https://youtu.be/XQTQz-MgEBA)

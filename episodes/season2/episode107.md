@@ -62,7 +62,7 @@ What happened in the area of DevOps and esp. GitHub which pushed things out like
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Your ultimate guide to Azure app innovation at Microsoft Ignite 2022](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/your-ultimate-guide-to-azure-app-innovation-at-microsoft-ignite/ba-p/3647504?WT.mc_id=AZ-MVP-5004195)
 * [New milestones at Ignite 2022 for Azure confidential computing](https://techcommunity.microsoft.com/t5/azure-confidential-computing/new-milestones-at-ignite-2022-for-azure-confidential-computing/ba-p/3648777?WT.mc_id=AZ-MVP-5004195)

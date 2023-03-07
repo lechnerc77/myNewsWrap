@@ -59,7 +59,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [Sharing the latest improvements to efficiency in Microsoft’s datacenters](https://azure.microsoft.com/blog/sharing-the-latest-improvements-to-efficiency-in-microsoft-s-datacenters/?WT.mc_id=AZ-MVP-5004195) - nice addition to last weeks SAP on Azure Podcast episode
 * [Performance improvements in ASP.NET Core 7](https://devblogs.microsoft.com/dotnet/performance-improvements-in-aspnet-core-7/?WT.mc_id=AZ-MVP-5004195)
