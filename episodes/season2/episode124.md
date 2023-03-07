@@ -73,7 +73,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 ### Misc
 
-Interested in some new from the broader Microsoft ecosystem? Then here are some links for you:
+Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
 * [The new Bing & Edge – Learning from our first week](https://blogs.bing.com/search/february-2023/The-new-Bing-Edge-%E2%80%93-Learning-from-our-first-week)
 * [Putting Your Application to the Test with Azure Load Test](https://www.blueboxes.co.uk/putting-your-application-to-the-test-with-azure-load-test) by John Kilmister
