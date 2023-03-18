@@ -41,8 +41,6 @@ From Serverless to Containers, Azure Container Apps and Kubernetes - what did th
 
 What happened in the area of DevOps and esp. GitHub - let's see:
 
-* []() by
-
 #### GitHub in general (issues, discussions etc.)
 
 * [How the Grafana Alerting team scales their issue management with GitHub Projects](https://github.blog/2023-03-15-how-the-grafana-alerting-team-scales-their-issue-management-with-github-projects/) by Mario Rodriguez
