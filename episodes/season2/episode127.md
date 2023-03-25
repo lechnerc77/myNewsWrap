@@ -1,6 +1,6 @@
 ---
 title: 'Episode 127: myNewsWrap – SAP and Microsoft'
-created: '2023-02-25'
+created: '2023-03-25'
 description: Weekly news update from the SAP and Microsoft universe.
 tags: 'sap, azure, serverless, kubernetes'
 cover_image: 'https://raw.githubusercontent.com/lechnerc77/myNewsWrap/main/episodes/cover-images/episode127small.png'
