@@ -57,7 +57,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 * [Integrate Azure Load Testing into GitHub Actions](https://youtu.be/URRCP2RnCAA)
 * [Hardware accelerated Android virtualization on Actions Linux larger hosted runners](https://github.blog/changelog/2023-02-23-hardware-accelerated-android-virtualization-on-actions-windows-and-linux-larger-hosted-runners/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [Responsible AI pair programming with GitHub Copilot](https://github.blog/2023-02-22-responsible-ai-pair-programming-with-github-copilot/) by Colin Dembovsky
 * [Codespaces support for JetBrains Rider (Beta)](https://github.blog/changelog/2023-02-24-codespaces-support-for-jetbrains-rider-beta/)

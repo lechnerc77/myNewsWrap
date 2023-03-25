@@ -66,7 +66,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 * [GitHub Actions Importer General Availability](https://github.blog/changelog/2023-03-01-github-actions-importer-general-availability/)
 * [GitHub Actions: Introducing the new, more powerful GitHub-hosted x64 macOS runners](https://github.blog/changelog/2023-03-01-github-actions-introducing-the-new-more-powerful-github-hosted-x64-macos-runners/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/2023-02-28-10-things-you-didnt-know-you-could-do-with-github-codespaces/) by Rizel Scarlett
 * [Add pronouns to your GitHub profile](https://github.blog/changelog/2023-03-01-add-pronouns-to-your-github-profile/)

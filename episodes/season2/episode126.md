@@ -54,7 +54,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 * [Secret scanning changes to how you opt in to notifications](https://github.blog/changelog/2023-03-17-secret-scanning-changes-to-how-you-opt-in-to-notifications/)
 * [Organization Audit Logs include IP addresses – Public Beta](https://github.blog/changelog/2023-03-14-organization-audit-logs-include-ip-addresses-public-beta/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [Introducing the GitHub Markdown Helpers Public Beta](https://github.blog/changelog/2023-03-15-introducing-the-github-markdown-helpers-public-beta/)
 * [Don’t leave developers behind in the Section 230 debate](https://github.blog/2023-03-10-dont-leave-developers-behind-in-the-section-230-debate/) by Shelley McKinley

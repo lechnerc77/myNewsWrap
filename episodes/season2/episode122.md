@@ -67,7 +67,7 @@ What happened in the area of DevOps and esp. GitHub - let's see
 * [GitHub Actions – Removal of additional label option for GitHub-hosted larger runners](https://github.blog/changelog/2023-02-15-github-actions-removal-of-additional-label-option-for-github-hosted-larger-runners/)
 * [How GitHub Actions can improve CI/CD and compares with Azure Pipelines](https://dev.to/pwd9000/how-github-actions-can-improve-cicd-and-compares-with-azure-pipelines-3bh)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [GitHub Copilot for Business is now available](https://github.blog/2023-02-14-github-copilot-for-business-is-now-available/) by Thomas Dohmke
 * [GitHub Copilot now has a better AI model and new capabilities](https://github.blog/2023-02-14-github-copilot-now-has-a-better-ai-model-and-new-capabilities/) by Shuyin Zhao

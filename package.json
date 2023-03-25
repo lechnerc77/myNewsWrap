@@ -18,6 +18,6 @@
   "homepage": "https://github.com/lechnerc77/myNewsWrap#readme",
   "dependencies": {
     "gray-matter": "4.0.3",
-    "node-fetch": "2.6.7"
+    "node-fetch": "2.6.9"
   }
 }

@@ -66,7 +66,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 * [Run self-hosted GitHub runners on GitHub Codespaces](https://youtu.be/4CPoHrLgO1E) by Marcel Lupo
 * [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/) by Timothy Clem
 

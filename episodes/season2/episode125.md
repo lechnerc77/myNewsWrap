@@ -60,7 +60,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 * [GitHub Actions – Required workflows improvements](https://github.blog/changelog/2023-03-10-github-actions-required-workflows-improvements/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [File editing on GitHub Mobile keeps leveling up](https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/) by Alfredo Cerezo Luna
 * [GitHub Enterprise Server 3.8 is now generally available](https://github.blog/2023-03-07-github-enterprise-server-3-8-is-now-generally-available/) by David Jarzebowski and Melody Mileski

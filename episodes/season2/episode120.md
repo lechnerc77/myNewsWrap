@@ -69,7 +69,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 * [Enabling branch deployments through IssueOps with GitHub Actions](https://github.blog/2023-02-02-enabling-branch-deployments-through-issueops-with-github-actions/) by Grant Birkinbine
 * [GitHub Actions: Job summary updates](https://github.blog/changelog/2023-01-31-github-actions-job-summary-updates/)
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * [Announcing the launch of the All In for Maintainers DEI Resource Hub](https://github.blog/2023-02-01-announcing-the-launch-of-the-all-in-for-maintainers-dei-resource-hub/) by Sarah Oyetubo
 * [Setting the foundations for compliance](https://twitter.com/github/status/1620151114678018048?s=61&t=THOopdpInVYoNQo9HQ8uwg) by Mark Paulsen and Fintan Ryan

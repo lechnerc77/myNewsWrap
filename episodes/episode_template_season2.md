@@ -51,7 +51,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 * []() by
 
-#### GitHub other topcis
+#### GitHub other topics
 
 * []() by
 
@@ -63,7 +63,7 @@ Interested in some news from the broader Microsoft ecosystem? Then here are some
 
 ## 🐱‍👤 SAP and Microsoft - Combining both worlds
 
-Now let's enter the _twilight zone_ (no worries the ninja cat is with us) between SAP and Microsoft and see the magic happening when we combine both worlds:
+Now let's enter the *twilight zone* (no worries the ninja cat is with us) between SAP and Microsoft and see the magic happening when we combine both worlds:
 
 * []() by
 

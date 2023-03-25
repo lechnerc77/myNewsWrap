@@ -166,6 +166,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 124](/episodes/season2/episode124.md)                                     | 04.03.2023 |
 | [Episode 125](/episodes/season2/episode125.md)                                     | 11.03.2023 |
 | [Episode 126](/episodes/season2/episode126.md)                                     | 18.03.2023 |
+| [Episode 127](/episodes/season2/episode127.md) - The DSAG Technology Days Edition  | 25.03.2023 |
 
 ## Disclaimer
 
