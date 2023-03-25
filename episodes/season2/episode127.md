@@ -39,7 +39,7 @@ Here is what happened this week in the serverless space like Azure Functions and
 
 From Serverless to Containers, Azure Container Apps and Kubernetes - what did this week provide us with?
 
-* [Public Preview - Backup for Azure Kubernetes Service (AKS)](https://azure.microsoft.com/updates/backupforakspublicpreview/)
+* [Public Preview - Backup for Azure Kubernetes Service (AKS)](https://azure.microsoft.com/updates/backupforakspublicpreview/?WT.mc_id=AZ-MVP-5004195)
 * [Dapr Community Call 79](https://youtu.be/bxpknTbH800)
 
 ### GitHub & DevOps
@@ -61,13 +61,13 @@ What happened in the area of DevOps and esp. GitHub - let's see.
 #### GitHub other topics
 
 * **Announcement of the week**: [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) by Thomas Dohmke
-  * and already first previews where the vision is heading to: [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/) and [GitHub Copilot chat for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-chat-for-visual-studio-2022/)
+  * and already first previews where the vision is heading to: [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/) and [GitHub Copilot chat for Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/github-copilot-chat-for-visual-studio-2022/?WT.mc_id=DT-MVP-5004195)
 
 ### Misc
 
 Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
-* [Introducing GPT-4 in Azure OpenAI Service](https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/) by Eric Boyd
+* [Introducing GPT-4 in Azure OpenAI Service](https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/?WT.mc_id=AZ-MVP-5004195) by Eric Boyd
 * [.NET 8 is on the way! Discover its new Features🚀](https://dev.to/bytehide/net-8-is-on-the-way-discover-its-new-features-4oil)
 * That looks interesting: [Microsoft Loop](https://loop.microsoft.com/learn)
 
@@ -77,7 +77,7 @@ Now let's enter the *twilight zone* (no worries the ninja cat is with us) betwee
 
 * [SAP Private Link service use cases for SAP Cloud Integration and SAP Build Work Zone, Standard Edition](https://blogs.sap.com/2022/08/22/sap-private-link-service-use-cases-for-sap-cloud-integration-and-sap-launchpad/) by Harutyun Ter-Minasyan
 * Azure Cognitive Services are supported by SAP Private Link service, find more details [here](https://help.sap.com/docs/PRIVATE_LINK/42acd88cb4134ba2a7d3e0e62c9fe6cf/3c1a30b7fa704af0a14ff96cfb0a38a7.html)
-* [SAP CDC Connector and SLT - Part 1 - Overview and architecture](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-cdc-connector-and-slt-part-1-overview-and-architecture/ba-p/3775190) by Bartosz Jarkowski
+* [SAP CDC Connector and SLT - Part 1 - Overview and architecture](https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-cdc-connector-and-slt-part-1-overview-and-architecture/ba-p/3775190?WT.mc_id=AZ-MVP-5004195) by Bartosz Jarkowski
 * [Power Platform + SAP - Setup and getting started](https://youtu.be/j1mFeLlroXE) by Holger Bruchelt
 * [SAP on Azure Video Podcast #136 - The one with SAP Integrated Business Planning & Teams (Zoltan Farkas, Zoltan Miklos Biro)](https://youtu.be/G4k_SVkt8H0)
 
@@ -85,7 +85,7 @@ Now let's enter the *twilight zone* (no worries the ninja cat is with us) betwee
 
 We always want to learn, so here are some links to some interesting learning resources and upcoming events:
 
-* [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) by Engin Diri - Attention Engin has a lot more blog posts around learning rust on his site, so check out his blog on [https://blog.ediri.io/](https://blog.ediri.io/)
+* [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) by Engin Diri - Attention Engin has a lot more blog posts around learning Rust on his site, so check out his blog on [https://blog.ediri.io/](https://blog.ediri.io/)
 * [Chaos Engineering with Azure Chaos Studio pt. 1](https://www.youtube.com/live/mN3Luc3eYlc?feature=share) by Philip Welz
 
 ## Golo's Corner
