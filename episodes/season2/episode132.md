@@ -32,7 +32,7 @@ Here is what happened this week in the serverless space like Azure Functions and
 
 ### Containers, Azure Container Apps and Kubernetes
 
-* KubCon aftermath: [It's about the people, it's about Open Source](https://www.salaboy.com/2023/04/24/kubecon-people-open-source/) by 
+* KubCon aftermath: [It's about the people, it's about Open Source](https://www.salaboy.com/2023/04/24/kubecon-people-open-source/) by Mauricio Salatino
 
 ### GitHub & DevOps
 
@@ -58,7 +58,7 @@ What happened in the area of DevOps and esp. GitHub - let's see:
 
 Interested in some news from the broader Microsoft ecosystem? Then here are some links for you:
 
-* [Introducing cloud.microsoft: a unified domain for Microsoft 365 apps and services](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-cloud-microsoft-a-unified-domain-for-microsoft-365/ba-p/3804961)#
+* [Introducing cloud.microsoft: a unified domain for Microsoft 365 apps and services](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-cloud-microsoft-a-unified-domain-for-microsoft-365/ba-p/3804961)
 * [Azure Logic Apps Community Standup - April 2023](https://www.youtube.com/live/mvOm3fAMLc8?feature=share)
 * [Introducing Azure OpenAI Code Repository: Your Gateway to Harnessing the Power of Generative AI](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-azure-openai-code-repository-your-gateway-to/ba-p/3799701) by Shubhendu Satsangi
 * [Transparenz über Cloudkosten: Microsoft unterstützt OpenCost](https://www.heise.de/news/Transparenz-ueber-Cloudkosten-Microsoft-unterstuetzt-OpenCost-8975901.html)
