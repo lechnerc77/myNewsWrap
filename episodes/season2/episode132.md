@@ -100,6 +100,6 @@ As a regular guest and due to the high-quality content here an overview what [Go
 Last but not least, some links that might make our developer live easier and reflect on our profession:
 
 * [CLI tricks every developer should know](https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/) by Kedasha Kerr
-* I love that one: [every cloud arcthitecture](https://twitter.com/jasper_07/status/1649923075922857984?s=20)
+* I love that one: [every cloud architecture](https://twitter.com/jasper_07/status/1649923075922857984?s=20)
 
 **And with this enjoy your weekend and have a successful next week!**
