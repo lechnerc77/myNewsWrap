@@ -171,6 +171,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 129](/episodes/season2/episode129.md) - The Easter Edition 🐰             | 08.04.2023 |
 | [Episode 130](/episodes/season2/episode130.md)                                     | 15.04.2023 |
 | [Episode 131](/episodes/season2/episode131.md)                                     | 22.04.2023 |
+| [Episode 132](/episodes/season2/episode132.md)                                     | 29.04.2023 |
 
 ## Disclaimer
 
