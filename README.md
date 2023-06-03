@@ -176,6 +176,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 134](/episodes/season2/episode134.md)                                     | 13.05.2023 |
 | [Episode 135](/episodes/season2/episode135.md) - incl SAP Sapphire 2023            | 20.05.2023 |
 | [Episode 136](/episodes/season2/episode136.md) - incl Microsoft Build 2023         | 27.05.2023 |
+| [Episode 137](/episodes/season2/episode137.md)                                     | 03.06.2023 |
 
 ## Disclaimer
 
