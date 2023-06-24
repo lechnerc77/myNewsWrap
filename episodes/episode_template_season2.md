@@ -33,6 +33,10 @@ From Serverless to Containers, Azure Container Apps and Kubernetes - what did th
 
 * []() by
 
+#### All things Dapr
+
+* []() by
+
 ### GitHub & DevOps
 
 What happened in the area of DevOps and esp. GitHub - let's see:
