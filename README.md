@@ -182,6 +182,7 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 140](/episodes/season2/episode140.md)                                     | 24.06.2023 |
 | [Episode 141](/episodes/season2/episode141.md)                                     | 01.07.2023 |
 | [Episode 142](/episodes/season2/episode142.md)                                     | 08.07.2023 |
+| [Episode 143](/episodes/season2/episode143.md)                                     | 15.07.2023 |
 
 ## Disclaimer
 
