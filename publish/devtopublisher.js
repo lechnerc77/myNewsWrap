@@ -4,11 +4,11 @@ const matter = require('gray-matter')
 
 function getPost2Publish() {
 
-    const episodes = fs.readdirSync('episodes/season2')
+    const episodes = fs.readdirSync('episodes/season3')
 
     const mappedEpisodes = episodes.map(
         episode => {
-            const episodeWa = matter(fs.readFileSync(`episodes/season2/${episode}`))
+            const episodeWa = matter(fs.readFileSync(`episodes/season3/${episode}`))
 
             return { episode, episodeWa }
         }
@@ -102,7 +102,7 @@ function updateLinkInMarkdown(devToResponse, episode) {
 
     console.log(`Update markdown of episode ${episode} with link to dev.to post.`)
 
-    const postPath = `episodes/season2/${episode}`
+    const postPath = `episodes/season3/${episode}`
     const post = fs.readFileSync(postPath).toString()
     let occurrences = 0
 

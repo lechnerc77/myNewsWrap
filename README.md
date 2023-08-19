@@ -121,7 +121,9 @@ The show notes for the episodes of Season 1 are contained in the [episodes](epis
 
 ## Overview of Episodes - Season 2 (News only)
 
-You find the collection of news in the folder season2 in the episodes folder of this repository. In addition, you find the collection as blog post on dev.to generated based on the episode description here in this repository (see introductory blog post  on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-sap-and-microsoft-its-season-2-261c)). The links to these blog posts are available in the metadata of the episodes. 
+You find the collection of news in the folder [season2](episodes/season2) in the episodes folder of this repository. In addition, you find the collection as blog post on [dev.to](https://dev.to/lechnerc77/series/18225) generated based on the episode description here in this repository (see introductory blog post  on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-sap-and-microsoft-its-season-2-261c)).
+
+The links to these blog posts are available in the metadata of the episodes.
 
 | Episode                                                                            | Date       |
 |---                                                                                 |---         |
@@ -186,6 +188,17 @@ You find the collection of news in the folder season2 in the episodes folder of 
 | [Episode 144](/episodes/season2/episode144.md)                                     | 22.07.2023 |
 | [Episode 145](/episodes/season2/episode145.md)                                     | 29.07.2023 |
 | SUMMER BREAK 🏝️ - I'll be back at end of August                                    | ---        |
+
+## Overview of Episodes - Season 3
+
+Sticking to the "news-only" format you find the collection of news in the folder [season3](episodes/season3) in the episodes folder of this repository. As in season two you find each edition as a dedicated blog post on [dev.to](https://dev.to/lechnerc77/series/18225) generated based on the episode description here in this repository. The links to these blog posts are available in the metadata of the episodes.
+
+With this season the outline of the posts have changed compared to season 2. You find more information on that in the blog post on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-microsoft-github-and-sap-its-season-3-22bk).
+
+| Episode                                                                            | Date       |
+|---                                                                                 |---         |
+| [Episode 146](/episodes/season3/episode146.md)                                     | 19.08.2023 |
+
 
 ## Disclaimer
 
