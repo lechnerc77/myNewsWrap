@@ -69,6 +69,7 @@ No matter how the structure of this newsletter is crafted, there is always somet
 
 Combining Microsoft with SAP can lead to incredible new applications. Let's enter the *twilight zone* (no worries the ninja cat is with us) between SAP and Microsoft and see what's up here:
 
+* [SAP on Azure Video Podcast ]()
 * []() by
 
 > And of course a channel that you should subscribe to if you are working with SAP and Microsoft is the [SAP on Azure](https://www.youtube.com/@SAPonAzure) hosted by [Holger Bruchelt](https://www.linkedin.com/in/holger-bruchelt/) and friends.
