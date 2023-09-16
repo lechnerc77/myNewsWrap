@@ -201,6 +201,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 147](/episodes/season3/episode147.md)                                     | 26.08.2023 |
 | [Episode 148](/episodes/season3/episode148.md)                                     | 02.09.2023 |
 | [Episode 149](/episodes/season3/episode149.md)                                     | 09.09.2023 |
+| [Episode 150](/episodes/season3/episode150.md)                                     | 16.09.2023 |
 
 
 ## Disclaimer
