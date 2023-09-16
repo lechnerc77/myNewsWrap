@@ -88,7 +88,7 @@ Combining Microsoft with SAP can lead to incredible new applications. Let's ente
 
 One important (and imho best part) of the job of a developer is the *continuous learning*. Here are some interesting learning resources that go beyond vendor-specific technology:
 
-* [Engineering Excellence mit Michael Vitz](https://www.youtube.com/live/w9EmDTbw6aE?si=yW6kPgyE7FJfMW0k) by Eberhard Wolff and Michael Vitz
+* [Engineering Excellence mit Michael Vitz](https://www.youtube.com/live/w9EmDTbw6aE?si=yW6kPgyE7FJfMW0k) by Lisa Moritz and Michael Vitz
 
 ### Golo's Corner
 
