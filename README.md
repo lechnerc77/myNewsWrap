@@ -195,13 +195,14 @@ Sticking to the "news-only" format you find the collection of news in the folder
 
 With this season the outline of the posts have changed compared to season 2. You find more information on that in the blog post on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-microsoft-github-and-sap-its-season-3-22bk).
 
-| Episode                                                                            | Date       |
-|---                                                                                 |---         |
-| [Episode 146](/episodes/season3/episode146.md)                                     | 19.08.2023 |
-| [Episode 147](/episodes/season3/episode147.md)                                     | 26.08.2023 |
-| [Episode 148](/episodes/season3/episode148.md)                                     | 02.09.2023 |
-| [Episode 149](/episodes/season3/episode149.md)                                     | 09.09.2023 |
-| [Episode 150](/episodes/season3/episode150.md)                                     | 16.09.2023 |
+| Episode                                                                             | Date       |
+|---                                                                                  |---         |
+| [Episode 146](/episodes/season3/episode146.md)                                      | 19.08.2023 |
+| [Episode 147](/episodes/season3/episode147.md)                                      | 26.08.2023 |
+| [Episode 148](/episodes/season3/episode148.md)                                      | 02.09.2023 |
+| [Episode 149](/episodes/season3/episode149.md)                                      | 09.09.2023 |
+| [Episode 150](/episodes/season3/episode150.md)                                      | 16.09.2023 |
+| [Episode 151](/episodes/season3/episode151.md) the one with the DSAG Jahreskongress | 23.09.2023 |
 
 
 ## Disclaimer
