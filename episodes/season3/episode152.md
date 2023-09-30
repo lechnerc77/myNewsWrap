@@ -5,6 +5,7 @@ description: Weekly news update from the SAP and Microsoft universe.
 tags: 'azure, github ,sap ,serverless'
 cover_image: 'https://raw.githubusercontent.com/lechnerc77/myNewsWrap/main/episodes/cover-images/episode152small.png'
 series: 'myNewsWrap - SAP and Microsoft'
+dev_to_link: https://dev.to/lechnerc77/episode-152-mynewswrap-sap-and-microsoft-l45
 ---
 
 # Episode 152: myNewsWrap – Microsoft, GitHub and SAP
