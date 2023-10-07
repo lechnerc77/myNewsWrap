@@ -97,6 +97,10 @@ Make sure to subscribe to Golo's YouTube channels:
 * [German channel](https://www.youtube.com/@thenativeweb)
 * [English channel](https://www.youtube.com/@thenativeweb-en)
 
+And Golo's personal channel with a new series - not IT, but about an important topic that is not too much talk about in the IT world:
+
+* []()
+
 ### Events
 
 And last but not least heads up for these upcoming events:
