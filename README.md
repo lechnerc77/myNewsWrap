@@ -205,6 +205,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 151](/episodes/season3/episode151.md) the one with the DSAG Jahreskongress | 23.09.2023 |
 | [Episode 152](/episodes/season3/episode152.md)                                      | 30.09.2023 |
 | [Episode 153](/episodes/season3/episode153.md)                                      | 07.10.2023 |
+| [Episode 154](/episodes/season3/episode154.md)                                      | 14.10.2023 |
 
 
 ## Disclaimer
