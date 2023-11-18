@@ -210,6 +210,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 156](/episodes/season3/episode156.md)                                        | 28.10.2023 |
 | [Episode 157](/episodes/season3/episode157.md) - the one with SAP TechEd              | 04.11.2023 |
 | [Episode 158](/episodes/season3/episode158.md) - the one with GitHub Universe         | 11.11.2023 |
+| [Episode 159](/episodes/season3/episode159.md) - the one with Microsoft Ignite        | 18.11.2023 |
 
 ## Disclaimer
 
