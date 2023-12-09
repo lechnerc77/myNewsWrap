@@ -213,6 +213,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 159](/episodes/season3/episode159.md) - the one with Microsoft Ignite        | 18.11.2023 |
 | [Episode 160](/episodes/season3/episode160.md)                                        | 25.11.2023 |
 | [Episode 161](/episodes/season3/episode161.md)                                        | 02.12.2023 |
+| [Episode 162](/episodes/season3/episode162.md)                                        | 09.12.2023 |
 | WINTER BREAK ☃️ - I'll be back in January                                             | ---        |
 
 ## Disclaimer
