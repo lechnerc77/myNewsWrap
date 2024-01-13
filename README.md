@@ -216,6 +216,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 162](/episodes/season3/episode162.md)                                        | 09.12.2023 |
 | WINTER BREAK ☃️ - I'll be back in January                                             | ---        |
 | [Episode 163](/episodes/season3/episode163.md)                                        | 06.01.2024 |
+| [Episode 164](/episodes/season3/episode164.md)                                        | 13.01.2024 |
 
 ## Disclaimer
 
