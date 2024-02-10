@@ -220,6 +220,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 165](/episodes/season3/episode165.md)                                        | 20.01.2024 |
 | [Episode 166](/episodes/season3/episode166.md)                                        | 27.01.2024 |
 | [Episode 167](/episodes/season3/episode167.md)                                        | 03.02.2024 |
+| [Episode 168](/episodes/season3/episode168.md)                                        | 10.02.2024 |
 
 ## Disclaimer
 
