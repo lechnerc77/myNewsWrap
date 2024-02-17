@@ -195,32 +195,33 @@ Sticking to the "news-only" format you find the collection of news in the folder
 
 With this season the outline of the posts have changed compared to season 2. You find more information on that in the blog post on [dev.to](https://dev.to/lechnerc77/mynewswrap-news-from-microsoft-github-and-sap-its-season-3-22bk).
 
-| Episode                                                                               | Date       |
-|---                                                                                    |---         |
-| [Episode 146](/episodes/season3/episode146.md)                                        | 19.08.2023 |
-| [Episode 147](/episodes/season3/episode147.md)                                        | 26.08.2023 |
-| [Episode 148](/episodes/season3/episode148.md)                                        | 02.09.2023 |
-| [Episode 149](/episodes/season3/episode149.md)                                        | 09.09.2023 |
-| [Episode 150](/episodes/season3/episode150.md)                                        | 16.09.2023 |
-| [Episode 151](/episodes/season3/episode151.md) - the one with the DSAG Jahreskongress | 23.09.2023 |
-| [Episode 152](/episodes/season3/episode152.md)                                        | 30.09.2023 |
-| [Episode 153](/episodes/season3/episode153.md)                                        | 07.10.2023 |
-| [Episode 154](/episodes/season3/episode154.md)                                        | 14.10.2023 |
-| [Episode 155](/episodes/season3/episode155.md)                                        | 21.10.2023 |
-| [Episode 156](/episodes/season3/episode156.md)                                        | 28.10.2023 |
-| [Episode 157](/episodes/season3/episode157.md) - the one with SAP TechEd              | 04.11.2023 |
-| [Episode 158](/episodes/season3/episode158.md) - the one with GitHub Universe         | 11.11.2023 |
-| [Episode 159](/episodes/season3/episode159.md) - the one with Microsoft Ignite        | 18.11.2023 |
-| [Episode 160](/episodes/season3/episode160.md)                                        | 25.11.2023 |
-| [Episode 161](/episodes/season3/episode161.md)                                        | 02.12.2023 |
-| [Episode 162](/episodes/season3/episode162.md)                                        | 09.12.2023 |
-| WINTER BREAK ☃️ - I'll be back in January                                             | ---        |
-| [Episode 163](/episodes/season3/episode163.md)                                        | 06.01.2024 |
-| [Episode 164](/episodes/season3/episode164.md)                                        | 13.01.2024 |
-| [Episode 165](/episodes/season3/episode165.md)                                        | 20.01.2024 |
-| [Episode 166](/episodes/season3/episode166.md)                                        | 27.01.2024 |
-| [Episode 167](/episodes/season3/episode167.md)                                        | 03.02.2024 |
-| [Episode 168](/episodes/season3/episode168.md)                                        | 10.02.2024 |
+| Episode                                                                                | Date       |
+|---                                                                                     |---         |
+| [Episode 146](/episodes/season3/episode146.md)                                         | 19.08.2023 |
+| [Episode 147](/episodes/season3/episode147.md)                                         | 26.08.2023 |
+| [Episode 148](/episodes/season3/episode148.md)                                         | 02.09.2023 |
+| [Episode 149](/episodes/season3/episode149.md)                                         | 09.09.2023 |
+| [Episode 150](/episodes/season3/episode150.md)                                         | 16.09.2023 |
+| [Episode 151](/episodes/season3/episode151.md) - the one with the DSAG Jahreskongress  | 23.09.2023 |
+| [Episode 152](/episodes/season3/episode152.md)                                         | 30.09.2023 |
+| [Episode 153](/episodes/season3/episode153.md)                                         | 07.10.2023 |
+| [Episode 154](/episodes/season3/episode154.md)                                         | 14.10.2023 |
+| [Episode 155](/episodes/season3/episode155.md)                                         | 21.10.2023 |
+| [Episode 156](/episodes/season3/episode156.md)                                         | 28.10.2023 |
+| [Episode 157](/episodes/season3/episode157.md) - the one with SAP TechEd               | 04.11.2023 |
+| [Episode 158](/episodes/season3/episode158.md) - the one with GitHub Universe          | 11.11.2023 |
+| [Episode 159](/episodes/season3/episode159.md) - the one with Microsoft Ignite         | 18.11.2023 |
+| [Episode 160](/episodes/season3/episode160.md)                                         | 25.11.2023 |
+| [Episode 161](/episodes/season3/episode161.md)                                         | 02.12.2023 |
+| [Episode 162](/episodes/season3/episode162.md)                                         | 09.12.2023 |
+| WINTER BREAK ☃️ - I'll be back in January                                              | ---        |
+| [Episode 163](/episodes/season3/episode163.md)                                         | 06.01.2024 |
+| [Episode 164](/episodes/season3/episode164.md)                                         | 13.01.2024 |
+| [Episode 165](/episodes/season3/episode165.md)                                         | 20.01.2024 |
+| [Episode 166](/episodes/season3/episode166.md)                                         | 27.01.2024 |
+| [Episode 167](/episodes/season3/episode167.md)                                         | 03.02.2024 |
+| [Episode 168](/episodes/season3/episode168.md) - the one with the DSAG Technologietage | 10.02.2024 |
+| [Episode 169](/episodes/season3/episode169.md)                                         | 17.02.2024 |
 
 ## Disclaimer
 

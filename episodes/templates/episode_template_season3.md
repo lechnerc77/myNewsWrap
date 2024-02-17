@@ -92,10 +92,7 @@ One great resource for becoming a better developer and reflecting about our prof
 
 * []()
 
-Make sure to subscribe to Golo's YouTube channels:
-
-* [German channel](https://www.youtube.com/@thenativeweb)
-* [English channel](https://www.youtube.com/@thenativeweb-en)
+Make sure to subscribe to Golo's YouTube [channel](https://www.youtube.com/@thenativeweb).
 
 And Golo's personal channel with a new series - not IT, but about an important topic that is not too much talk about in the IT world:
 
