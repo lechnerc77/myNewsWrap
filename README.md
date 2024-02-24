@@ -222,6 +222,7 @@ With this season the outline of the posts have changed compared to season 2. You
 | [Episode 167](/episodes/season3/episode167.md)                                         | 03.02.2024 |
 | [Episode 168](/episodes/season3/episode168.md) - the one with the DSAG Technologietage | 10.02.2024 |
 | [Episode 169](/episodes/season3/episode169.md)                                         | 17.02.2024 |
+| [Episode 170](/episodes/season3/episode170.md) - THE END 👋                            | 24.02.2024 |
 
 ## Disclaimer
 
